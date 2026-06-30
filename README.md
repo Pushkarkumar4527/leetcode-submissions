@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
@@ -33,9 +34,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
