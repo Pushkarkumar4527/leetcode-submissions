@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
