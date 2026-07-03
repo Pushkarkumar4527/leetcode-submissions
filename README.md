@@ -15,6 +15,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
