@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -19,12 +20,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
