@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -61,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
