@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3871-count-commas-in-range-ii](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
@@ -71,4 +73,16 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
