@@ -13,7 +13,7 @@ public:
         int minm = nums[0];
         int maxm = nums[0];
         for(int i : nums){
-            minm = min(minm,i);
+            minm = min(minm,i);  // we can do either way it min or max
             maxm = max(maxm,i);
         }
 
