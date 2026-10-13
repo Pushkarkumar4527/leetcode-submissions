@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pushkarkumar4527/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
